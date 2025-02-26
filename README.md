@@ -41,7 +41,8 @@ If you want to **customize the region, change color schemes, or adjust parameter
 
 ## **Sample Visualizations**  
 
-![Screenshot 2025-02-26 011330](https://github.com/user-attachments/assets/fd367a46-455e-44a7-be9e-aa7c2ce75b97)  
+![Screenshot 2025-02-26 182702](https://github.com/user-attachments/assets/40862f1a-fa1d-4033-b980-a0c1581a033f)
+
 *NDVI Analysis Result*  
 
 ---  
