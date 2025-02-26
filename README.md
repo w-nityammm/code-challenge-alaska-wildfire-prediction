@@ -21,7 +21,7 @@ Performs **land use classification** using a **Random Forest classifier** to dif
 ## **Usage**  
 
 ### **1: Use Provided Shareable Snapshots (auto-run disabled)**  
-🔗 **[NDVI Analysis - GEE Script](https://code.earthengine.google.com/ceb0138c32deff5380be1741bafa176c?noload=true)**
+🔗 **[NDVI Analysis - GEE Script](https://code.earthengine.google.com/2868992c976aae4fb4f764b6258e2d8b?noload=true)**
 🔗 **[Land Cover Classification - GEE Script](https://code.earthengine.google.com/e5d8d54067a3a6d6ce1dfd7b2b70b80c?noload=true)**  
 
 Once opened, click **"Run"** to execute the script and view results.  
